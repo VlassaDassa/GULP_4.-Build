@@ -1,0 +1,48 @@
+File from: [src/images/src/Derek.png]
+
+File to: [src/images/dest/Derek.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\New\Desktop\News\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o src/images/dest/Derek.png src/images/src/Derek.png
+  error: failed writing image to src/images/dest/Derek.png (16)
+File from: [src/images/src/Derek.png]
+
+File to: [src/images/dest/Derek.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\New\Desktop\News\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o src/images/dest/Derek.png src/images/src/Derek.png
+  error: failed writing image to src/images/dest/Derek.png (16)
+File from: [src/images/src/Виньярд.png]
+
+File to: [src/images/dest/Виньярд.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\New\Desktop\News\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o src/images/dest/Виньярд.png src/images/src/Виньярд.png
+  error: cannot open src\images\src\Виньярд.png for reading
+File from: [src/images/src/Юра Грачевив.png]
+
+File to: [src/images/dest/Юра Грачевив.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\New\Desktop\News\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o src/images/dest/Юра Грачевив.png src/images/src/Юра Грачевив.png
+  error: cannot open src\images\src\Юра Грачевив.png for reading
+File from: [src/images/src/Tyler.png]
+
+File to: [src/images/dest/Tyler.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\New\Desktop\News\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o src/images/dest/Tyler.png src/images/src/Tyler.png
+  error: failed writing image to src/images/dest/Tyler.png (16)
+File from: [src/images/src/Лысый Тайлер.png]
+
+File to: [src/images/dest/Лысый Тайлер.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\New\Desktop\News\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o src/images/dest/Лысый Тайлер.png src/images/src/Лысый Тайлер.png
+  error: cannot open src\images\src\Лысый Тайлер.png for reading

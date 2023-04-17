@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Главная страница</title>
+
+    <link rel="stylesheet" href="css/index.min.css">
+</head>
+
+<body>
+    <div class="menu">
+        Это меню, из menu.html <i>(общий элемент)</i>
+    </div>
+    <header class="header">
+        Это header, из templates/partials/header.html <i>(общий элемент)</i>
+    </header>
+    
+    
+    <!-- Всё содержимое, кроме того, что над комментарием,
+        является фактически содержимым тэга body в шаблоне
+        templates/layouts/defaul.html -->
+    
+    
+    <h1 class="base_text">Главная страница <i>(уникальный элемент)</i></h1>
+    
+    <div class="section">
+        Это секция, она прописывается также в pages, но стилизовать её рекомендуется, используя блоки, подключая их в основном файле
+    </div>
+
+    <footer class="footer">
+        Это footer, из templates/partials/footer.html <i>(общий элемент)</i>
+    </footer>    
+    <script src="js/dist/index.min.js"></script>
+</body>
+</html>
+

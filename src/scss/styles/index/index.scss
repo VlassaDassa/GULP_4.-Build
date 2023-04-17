@@ -1,0 +1,26 @@
+/* 
+    Это основной файл, в котором будет происходить
+    настройка общих стилей для страницы, а также подключение
+    блоков со стилями из папки blocks
+*/
+
+@import '../../variables';
+
+
+/* Базовые стили для страницы */
+body {
+    font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.base_text {
+    background: $body_color;
+    padding: 100px;
+    font-size: 48px;
+    text-align: center;
+    font-weight: 600;
+}
+
+
+
+/* Подключение блоков */
+@import 'blocks/section_1.scss';

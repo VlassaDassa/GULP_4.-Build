@@ -1,0 +1,8 @@
+File from: [src/images/src/Виньярд.png]
+
+File to: [src/images/dest/Виньярд.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\New\Desktop\News\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o src/images/dest/Виньярд.png src/images/src/Виньярд.png
+  error: cannot open src\images\src\Виньярд.png for reading

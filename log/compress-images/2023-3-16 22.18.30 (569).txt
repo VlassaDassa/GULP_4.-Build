@@ -1,0 +1,8 @@
+File from: [src/images/src/Юра Грачевив.png]
+
+File to: [src/images/dest/Юра Грачевив.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\New\Desktop\News\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o src/images/dest/Юра Грачевив.png src/images/src/Юра Грачевив.png
+  error: cannot open src\images\src\Юра Грачевив.png for reading

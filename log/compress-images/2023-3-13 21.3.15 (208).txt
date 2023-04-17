@@ -1,0 +1,24 @@
+File from: [src/images/src/Derek Vinyard.png]
+
+File to: [src/images/dest/Derek Vinyard.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\New\Desktop\News\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o src/images/dest/Derek Vinyard.png src/images/src/Derek Vinyard.png
+  error: failed writing image to src/images/dest/Derek Vinyard.png (16)
+File from: [src/images/src/Derek Vinyard.png]
+
+File to: [src/images/dest/Derek Vinyard.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\New\Desktop\News\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o src/images/dest/Derek Vinyard.png src/images/src/Derek Vinyard.png
+  error: failed writing image to src/images/dest/Derek Vinyard.png (16)
+File from: [src/images/src/Tyler.png]
+
+File to: [src/images/dest/Tyler.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\New\Desktop\News\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o src/images/dest/Tyler.png src/images/src/Tyler.png
+  error: failed writing image to src/images/dest/Tyler.png (16)

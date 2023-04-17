@@ -1,0 +1,8 @@
+File from: [src/images/src/Derden.png]
+
+File to: [src/images/dest/Derden.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\New\Desktop\News\node_modules\pngquant-bin\vendor\pngquant.exe --quality=75-100 -o src/images/dest/Derden.png src/images/src/Derden.png
+  error: failed writing image to src/images/dest/Derden.png (16)
